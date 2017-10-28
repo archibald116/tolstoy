@@ -267,6 +267,18 @@ export default class LandingTeam extends React.Component {
                     <li><a href="/@goryakon"><Icon name={APP_ICON} size="2x" /></a></li>
                 </ul>
             </div>
+          
+              <div data-wow-delay="1s" className="wow fadeIn small-12 medium-12 large-3 columns small-centered Team__member ">
+                <div className="Team__members__image-wrapper">
+                    <img className="Team__member__img" src="https://deex.exchange/14.png" />
+                </div>
+                <strong>Артур Матвеев</strong>
+                <p>Посол Голоса, г.Казань</p>
+                <ul>
+                    <li><a href="mailto:archibald116@gmail.com" title="mail to archibald116@gmail.com"><Icon name="envelope" size="2x" /></a></li>
+                    <li><a href="/@archibald116"><Icon name={APP_ICON} size="2x" /></a></li>
+                </ul>
+            </div>
 
 
         </div>
